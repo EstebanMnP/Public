@@ -9,3 +9,5 @@ https://drive.google.com/drive/folders/1nQBn2mkZQyP-pAwD1-gBRVSbGh0unAvr
 Tampoco se ha subido la base de SQLITE3, que pesa 1.5gb, ya que se genera 
 durante el proceso del Jupyter Notebook.
 
+Además se ha subido a Git, se puede ver en el siguiente enlace
+https://github.com/EstebanMnP/EDA-Supermercados.git
